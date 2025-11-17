@@ -1,3 +1,3 @@
 <script>
-document.write("it's working !");
+document.body.innerHTML += "<p>it's working !</p>";
 </script>
